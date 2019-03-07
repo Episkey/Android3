@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleUI</string>
+    <string name="welcome_to_the_wild_code_school">Welcome to the Wild Code School</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="sendButton">SEND</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+</resources>
+
